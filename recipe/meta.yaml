@@ -27,6 +27,7 @@ requirements:
     - cmaps
     - matplotlib-base
     - metpy
+    - packaging
     - pint
     - numpy
     - scikit-learn
